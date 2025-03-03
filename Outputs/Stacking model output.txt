@@ -1,0 +1,9 @@
+Stacked Model Predictions: [0.08012847 0.09451868 0.09260902 0.05382814 0.10132997]
+Performance Metrics for Stacked Model:
+R²: 0.9999
+MSE: 0.0000
+RMSE: 0.0004
+
+Residual Analysis for Stacked Model:
+Mean of Residuals: 0.0000
+Standard Deviation of Residuals: 0.0004
